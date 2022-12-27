@@ -1,2 +1,1 @@
-First new file in feature1
-
+This is a stash file and so on
